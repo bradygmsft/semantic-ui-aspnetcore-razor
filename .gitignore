@@ -1,0 +1,8 @@
+bin
+obj
+*node_modules/*
+.DS_Store
+
+# you'll want to remove these once you start customizing your theme or you want to publish it
+semantic
+wwwroot/semantic

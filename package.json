@@ -1,0 +1,24 @@
+{
+  "name": "semantic-aspnet",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradygmsft/semantic-ui-aspnetcore-razor.git"
+  },
+  "description": "Demo of how to use Semantic UI with ASP.NET Razor. ",
+  "main": "index.js",
+  "dependencies": {
+    "semantic-ui": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asp.net",
+    "semantic",
+    "ui"
+  ],
+  "author": "bradygmsft",
+  "license": "MIT"
+}
